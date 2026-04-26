@@ -6,7 +6,7 @@ This project showcases my skills, projects, and experience as a Front-End Develo
 ---
 
 ## 🚀 Live Demo
-🔗https://github.com/mifra-git/Portfolio/
+🔗https://github.com/mifra-git/Portfolio/index.html
 
 ---
 
@@ -68,7 +68,7 @@ _Add screenshots of your portfolio here (very important for recruiters)_
 
 - 📧 Email: fmifrah4@gmail.com  
 - 💬 WhatsApp: https://wa.me/your-number  
-- 💻 GitHub: (https://github.com/mifra-git/Portfolio)
+- 💻 GitHub: (https://github.com/mifra-git/Portfolio/index.html)
 
 ---
 
@@ -76,7 +76,7 @@ _Add screenshots of your portfolio here (very important for recruiters)_
 
 ```bash
 # Clone the repository
-git clone (https://github.com/mifra-git/Portfolio)
+git clone (https://github.com/mifra-git/Portfolio/index.html)
 # Open the project folder
 cd portfolio
 
